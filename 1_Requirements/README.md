@@ -21,3 +21,9 @@ when using measuring quantities, because units allow people to communicate amoun
 Because conversions are such an important part of problems, and you have to keep track of them so carefully, there’s a systematic way of handling conversions.
 ### How
 Through multiplicative conversion factors.A conversion factor is used to change the units of a measured quantity without changing its value.
+## High Level Requirements
+- Accuracy
+- Precision 
+- Memory
+## Low Level Requirements
+- Mass
