@@ -10,7 +10,6 @@ The process of conversion depends on the specific situation and the intended pur
 - The number of significant figures of the measurement.
 - The intended use of the measurement including the engineering tolerances.
 - Historical definitions of the units and their derivatives used in old measurements; e.g., international foot vs. US survey foot.
-## SWOT Analysis 
 ## 4W's and 1H
 ### Who
 Unit converters are used by those who require quantities in desired form of units for analysis of a system and is commonly used by students, engineers and many more. 
