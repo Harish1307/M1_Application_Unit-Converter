@@ -9,8 +9,8 @@ SRC = project_main.c\
 src/unit_converter.c
 
 # All test source files
-TEST_SRC = src/unit_converte.c\
-test/test_unit_converte.c\
+TEST_SRC = src/unit_converter.c\
+test/test_unit_converter.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
