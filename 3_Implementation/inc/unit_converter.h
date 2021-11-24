@@ -3,7 +3,6 @@
 
 #define <stdio.h>
 #define <sdtdlib.h>
-#define <stdio_ext.h>
 
 int length_convert(int u1, int u2, int a);
 int mass_convert(int u1, int u2, int a);

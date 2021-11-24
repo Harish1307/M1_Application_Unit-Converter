@@ -3,6 +3,7 @@
 int u1=0;
 int u2=0;
 int a=0;
+int conversion_mode=0;
 void unit_converter_menu(void);
 
 int main(int u1, int u2, int a) 
