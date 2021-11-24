@@ -19,4 +19,4 @@ jobs:
     - name: make test
       run: make -C 3_Implementation/ test
     - name: Valgrid
-      run: valgrind -v --leak-check=full --show-leak-kinds=all chmod a+x ./3_Implementation/Makefile
+      run: valgrind -v --leak-check=full --show-leak-kinds=all chmod a+x ./3_Implementation/project_main.c
