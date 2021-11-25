@@ -20,7 +20,7 @@ void tearDown(){}
 int main()
 {
 /* Initiate the Unity Test Framework */
-  UNITY_BEGIN(test_unit_converter.h);
+  UNITY_BEGIN();
 
 /* Run Test functions */
   RUN_TEST();
